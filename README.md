@@ -33,4 +33,4 @@ Feel free to open your PR and make contributions.
 
 ## LICENSE
 
-MIT
+[MIT](LICENSE)
