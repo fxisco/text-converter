@@ -1,6 +1,6 @@
-# Text Translator
+# Text converter
 
-Project to get text translation in different formats:
+Project to get convert text in different formats:
 - HTML
 - HEX
 - OCT
@@ -10,8 +10,8 @@ Project develped using [Svelte](https://svelte.dev/).
 ## Development
 
 ```bash
-git clone git@github.com:fxisco/text-translator.git
-cd text-translator
+git clone git@github.com:fxisco/text-converter.git
+cd text-converter
 npm install
 ```
 
